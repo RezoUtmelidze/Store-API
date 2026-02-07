@@ -8,4 +8,13 @@ Project is very optimized minimizing code to bare minimum while also keeping cod
 easily maintainable. Features error handling and message logging. Features DTO models which make 
 this API very safe
 
-To test this project just simply run it in Visual Studio and use API via Swagger
+## Tech Stack
+- **Language:** C#  
+- **Framework:** ASP.NET Core 8 / .NET 8  
+- **Tools:** Visual Studio 2022, Git, GitHub
+- 
+## Installation
+Clone the repository:
+git clone https://github.com/YourUsername/ProjectName.git
+
+To test this project just simply run it in Visual Studio 2022 and use API via Swagger
