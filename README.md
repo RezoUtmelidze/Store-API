@@ -15,6 +15,6 @@ this API very safe
   
 ## Installation
 Clone the repository:
-git clone https://github.com/YourUsername/ProjectName.git
+git clone https://github.com/RezoUtmelidze/Store-API.git
 
 To test this project just simply run it in Visual Studio 2022 and use API via Swagger
